@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/debajyatibanerjee/test.git
     targetRevision: HEAD
-    path: .
+    path: infra
   destination:
     server: https://kubernetes.default.svc
     namespace: test-app
